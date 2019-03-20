@@ -1,0 +1,42 @@
+h1{
+    font-family:'Mali', cursive;
+     font-size: 30px;
+     color:red;
+     border-top: 1px solid #ddd;
+     text-align: center;
+    }
+    h2{
+    font-family:'Mali', cursive;
+     font-size: 30px;
+     color:red;
+     border-top: 1px solid #ddd;
+     text-align: center;
+    }
+    
+      h3{
+    font-family:'Mali', cursive;
+     font-size: 30px;
+     color:red;
+     border-top: 1px solid #ddd;
+     text-align: center;
+    }
+    
+        .lolito{
+        height:200px;
+        text-align: center;
+        }
+        body{
+            font-family:'Mali', cursive;
+            text-align: center;
+            background-color: #baabab;
+        background-image:url(https://hytale.com/static/images/logo.png);
+		background-repeat: no-repeat;
+		 background-size: 90% 80%;
+		 
+            }
+p{
+    color:white;
+    }
+    li{
+    color:white;
+    }
